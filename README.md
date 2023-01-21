@@ -26,8 +26,8 @@ The task was to create a QR code component, using starting materials (contents o
 
 ### Links
 
-- Solution URL: [https://your-solution-url.com](https://github.com/YaroslavaShyt/FrontendMentor)
-- Live Site URL: [https://your-live-site-url.com](https://yaroslavashyt.github.io/FrontendMentor/)
+- Solution URL: [mysolution](https://github.com/YaroslavaShyt/FrontendMentor)
+- Live Site URL: [result](https://yaroslavashyt.github.io/FrontendMentor/)
 
 ### Built with
 
