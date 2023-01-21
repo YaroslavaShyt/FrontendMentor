@@ -52,7 +52,7 @@ The task was to create a QR code component, using starting materials (contents o
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
 }
-
+```
 ### Continued development
   
 Advanced CSS
