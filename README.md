@@ -59,10 +59,10 @@ Advanced CSS
   
 ### Useful resources
   
-- [https://www.example.com](https://www.w3schools.com/css/css_align.asp) - Helped to realize Horizontal & Vertical Align
+- [Horizontal & Vertical Align](https://www.w3schools.com/css/css_align.asp) - Helped to realize Horizontal & Vertical Align
 
 ## Author
 
-- Website - [https://www.your-site.com](https://yaroslavashyt.github.io/CV/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)](https://www.frontendmentor.io/profile/YaroslavaShyt)
+- Website - [CV](https://yaroslavashyt.github.io/CV/)
+- Frontend Mentor - [@YaroslavaShyt](https://www.frontendmentor.io/profile/YaroslavaShyt)
 
