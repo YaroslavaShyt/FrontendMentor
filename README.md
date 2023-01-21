@@ -21,13 +21,13 @@ The task was to create a QR code component, using starting materials (contents o
 
 ### Screenshot
 
-![](./FrontendMentor/images/result.png)
+![](./images/resultqr.png)
 
 
 ### Links
 
-- Solution URL: [https://your-solution-url.com](https://github.com/YaroslavaShyt/FrontendMentor)
-- Live Site URL: [https://your-live-site-url.com](https://yaroslavashyt.github.io/FrontendMentor/)
+- Solution URL: [mysolution](https://github.com/YaroslavaShyt/FrontendMentor)
+- Live Site URL: [result](https://yaroslavashyt.github.io/FrontendMentor/)
 
 ### Built with
 
@@ -52,17 +52,17 @@ The task was to create a QR code component, using starting materials (contents o
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
 }
-
+```
 ### Continued development
   
 Advanced CSS
   
 ### Useful resources
   
-- [https://www.example.com](https://www.w3schools.com/css/css_align.asp) - Helped to realize Horizontal & Vertical Align
+- [Horizontal & Vertical Align](https://www.w3schools.com/css/css_align.asp) - Helped to realize Horizontal & Vertical Align
 
 ## Author
 
-- Website - [[Add your name here](https://www.your-site.com)](https://yaroslavashyt.github.io/CV/)
-- Frontend Mentor - [[@yourusername](https://www.frontendmentor.io/profile/yourusername)](https://www.frontendmentor.io/profile/YaroslavaShyt)
+- Website - [CV](https://yaroslavashyt.github.io/CV/)
+- Frontend Mentor - [@YaroslavaShyt](https://www.frontendmentor.io/profile/YaroslavaShyt)
 
