@@ -63,6 +63,6 @@ Advanced CSS
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)](https://yaroslavashyt.github.io/CV/)
+- Website - [https://www.your-site.com](https://yaroslavashyt.github.io/CV/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)](https://www.frontendmentor.io/profile/YaroslavaShyt)
 
