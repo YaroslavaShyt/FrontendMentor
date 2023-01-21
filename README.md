@@ -21,7 +21,7 @@ The task was to create a QR code component, using starting materials (contents o
 
 ### Screenshot
 
-![](./images/result.png)
+![](./FrontendMentor/images/result.png)
 
 
 ### Links
